@@ -37,6 +37,7 @@
   outline: none;
   border: none;
   font-weight: 700;
+  /* relative to view port width. percentage values aren't realtive to viewport */
   border-radius: 0.2vw;
   padding-left: 2rem;
   padding-right: 2rem;

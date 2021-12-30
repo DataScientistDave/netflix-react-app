@@ -46,7 +46,7 @@
 }
 
 .signupScreen_link:hover {
-  curosr: pointer;
+  cursor: pointer;
   text-decoration: underline;
 
 }
